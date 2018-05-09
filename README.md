@@ -1,3 +1,4 @@
+[![Docker Repository on Quay](https://quay.io/repository/realeyes/google-cloud-auto-snapshot/status "Docker Repository on Quay")](https://quay.io/repository/realeyes/google-cloud-auto-snapshot)
 
 # Automatic Snapshots for Google Compute Engine
 
